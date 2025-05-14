@@ -71,8 +71,8 @@ textarea {
 </head>
 <body>  <h1>MO.NA</h1><button id="love-btn">mo.na</button>
 
-  <div id="heart">❤️</div>  <textarea id="user-note" placeholder="اكتب رسالة جميلة..."></textarea>  <div class="decorations">
-    محمد و ناهيا <br>
+  <div id="heart">❤️</div>  <textarea id="user-note" placeholder="روح قلبي عصبو لحمودة😍"></textarea>  <div class="decorations">
+    محمد و ناهية <br>
     ❤️ 💖 💫 ✨ 🌹 💕
   </div>  <script>
     const heart = document.getElementById('heart');
