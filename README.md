@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>MO.NA</title>
   <style>
-    body {
+    body  {
       font-family: 'Segoe UI', sans-serif;
       background: linear-gradient(135deg, #ffd6e0, #ffe6f0);
       text-align: center;
